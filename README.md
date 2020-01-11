@@ -30,7 +30,7 @@ INHERITANCE
 -To inherit from a class, use the extends keyword.
 
 Advantage:
-   >  It is useful for code reusability: reuse attributes and methods of an existing class when you create a             new class.
+   >  It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
 
 
 POLYMORPHISM
@@ -40,11 +40,11 @@ POLYMORPHISM
 -Polymorphism occurs when we have many classes that are related to each other by inheritance. Like we  specified before; Inheritance lets us inherit attributes and methods from another class. Polymorphism  uses those methods to perform different tasks. This allows us to perform a single action in different  ways.
 
 Advantage:
-   >  It is useful for code reusability: reuse attributes and methods of an existing class when you create a        new class.
+  >  It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
 
 ABSTRACTION
 
 -Data abstraction is the process of hiding certain details and showing only essential information to the  user. Abstraction can be achieved with either abstract classes or interfaces.The abstract keyword is a  non-access modifier, used for classes and methods:
 
-	1. Abstract class: is a restricted class that cannot be used to create objects (to access it, it must 		be inherited from another class).
-	2. Abstract method: can only be used in an abstract class, and it does not have a body. The body 	is provided by the subclass (inherited from). 
+	1. Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another            class).
+	2. Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass    	   (inherited from). 
